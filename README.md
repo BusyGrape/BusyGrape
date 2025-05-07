@@ -8,6 +8,10 @@
 - Book
 - UI/UX
 
+**As a 3d modeler**
+
+**As a film editor**
+  
 **Self-learn computer sciense**
 
 
