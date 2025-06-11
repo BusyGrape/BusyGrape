@@ -6,7 +6,7 @@
 
   This part has nothing to show on github 😂
   
-### As a graphic designer[Design Projects](/graphicDesign.md)
+### As a graphic designer [👉Projects](/graphicDesign.md)
 - [Poster](https://www.behance.net/gallery/227731229/Poster-Design- "")
 - Infographic
 - Brocher
