@@ -6,7 +6,8 @@
 - 2020年 安全生产月主题招贴 2p
 - 2021年 安全生产月主题招贴 1p
 - 2022年 安全生产月主题招贴 4p
-  
+
+[View those posters on Behance](https://www.behance.net/gallery/227731229/Poster-Design- "to Behance")
 # Infographic 挂图
 创意、策划、部分文案、插画约稿、平面设计、排版、校对、付印
 
