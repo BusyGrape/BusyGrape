@@ -20,8 +20,9 @@
 ### As a auditor
 
   This part has nothing to show on github 😂
-### As a graphic designer
-- Poster
+### [As a graphic designer](/graphicDesign.md)
+- [Poster](https://www.behance.net/gallery/227731229/Poster-Design- "")
+- Infographic
 - Brocher
 - Book
 - UI/UX
