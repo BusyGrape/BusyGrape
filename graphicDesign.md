@@ -11,10 +11,11 @@
 # Infographic 挂图
 创意、策划、部分文案、插画约稿、平面设计、排版、校对、付印
 
-<img alt="2019年挂图" src=/GIF/2019年挂图.gif>
-
 
 ## 2019年
+
+<img alt="2019年挂图" src=/GIF/2019年挂图.gif>
+
 - 2019年 安全生产月主题挂图 6p [👉on Behance](https://www.behance.net/gallery/227945121/Infographic-HSE "to Behance")
 
 - 重特大典型事故案例(2019版) 8p [👉on Behance](https://www.behance.net/gallery/228167977/Infographic-Accidents "to Behance")
