@@ -7,12 +7,16 @@
 - 2021年 安全生产月主题招贴 1p
 - 2022年 安全生产月主题招贴 4p
 
-[View those posters on Behance](https://www.behance.net/gallery/227731229/Poster-Design- "to Behance")
+[View posters on Behance](https://www.behance.net/gallery/227731229/Poster-Design- "to Behance")
 # Infographic 挂图
 创意、策划、部分文案、插画约稿、平面设计、排版、校对、付印
 
+<img alt="2019年挂图" src=/GIF/2019年挂图.gif>
+
+
 ## 2019年
-- 2019年 安全生产月主题挂图 6p
+- 2019年 安全生产月主题挂图 6p [View on Behance](https://www.behance.net/gallery/227945121/Infographic-HSE "to Behance")
+
 - 重特大典型事故案例(2019版) 8p
 - 应急处置：现场急救 10p
 - 工作场所危险辨识与防控 8p
@@ -23,6 +27,7 @@
 - 安全使用化学品 6p
 - 养成三个习惯，远离职业伤害 6p
 - 图说生产安全事故应急条例 6p
+
 
 ## 2020年
 - 2020年 安全生产月主题挂图 4p
