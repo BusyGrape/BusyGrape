@@ -6,12 +6,14 @@
 
   This part has nothing to show on github 😂
   
-### As a graphic designer [👉Projects](/graphicDesign.md)
-- [Poster](https://www.behance.net/gallery/227731229/Poster-Design- "")
+### As a graphic designer [👉Projects Page](/graphicDesign.md)
+- Poster
 - Infographic
 - Brocher
 - Book
 - UI/UX
+
+[Take a look at my design work on Behance — most of my projects are there!](https://www.behance.net/yangliu30 "")
 
 ### As a 3d modeler
 
