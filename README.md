@@ -6,14 +6,17 @@
 
   This part has nothing to show on github 😂
   
-### As a graphic designer [👉Projects Page](/graphicDesign.md)
+### As a graphic designer 
+
+[👉Project List Page](/graphicDesign.md)
+
+[👉Take a look at my design work on Behance — most of my projects are there!](https://www.behance.net/yangliu30 "")
+
 - Poster
 - Infographic
 - Brocher
 - Book
 - UI/UX
-
-[Take a look at my design work on Behance — most of my projects are there!](https://www.behance.net/yangliu30 "")
 
 ### As a 3d modeler
 
