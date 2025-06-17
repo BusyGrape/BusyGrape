@@ -8,9 +8,9 @@
   
 ### As a graphic designer 
 
-[👉Project List Page](/graphicDesign.md)
+👉[Project List Page](/graphicDesign.md)
 
-[👉Take a look at my design work on Behance — most of my projects are there!](https://www.behance.net/yangliu30 "")
+👉[Take a look at my design work on Behance — most of my projects are there!](https://www.behance.net/yangliu30 "")
 
 - Poster
 - Infographic
