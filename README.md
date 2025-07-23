@@ -20,7 +20,13 @@
 
 ### As a 3d modeler
 
+- SketchUp & Layout
+- Blender
+
 ### As a film editor
+
+I use Final Cut X and Adobe Premiere
+
   
 ### Self-learn computer sciense
 
