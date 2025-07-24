@@ -26,6 +26,7 @@
 ### As a film editor
 
 I use Final Cut X and Adobe Premiere to edit videos from 5 min up to 1 hour
+
 I can make simple 2D animation
   
 ### Self-learn computer sciense
